@@ -65,4 +65,4 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukilan03h&show_icons=true&theme=darcula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukilan03h)](https://github.com/anuraghazra/github-readme-stats)
