@@ -65,6 +65,4 @@
 
 ### :fire: My Stats :
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/Mukilan03h&layout=compact&theme=vision-friendly-dark)](https://https://github.com/Mukilan03h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/Mukilan03h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
