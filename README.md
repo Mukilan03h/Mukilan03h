@@ -18,7 +18,7 @@
 
 https://komarev.com/ghpvc/?username="https://github.com/Mukilan03h"
 
-<img src="https://komarev.com/ghpvc/?username="https://github.com/Mukilan03h"&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=github.com/Mukilan03h/&style=flat-square&color=blue" alt=""/>
 
 
 **Mukilan03h/Mukilan03h** 🚀
