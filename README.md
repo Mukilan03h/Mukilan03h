@@ -16,7 +16,6 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=github.com/Mukilan03h&style=flat-square&color=blue" alt=""/>
 
 
 **Mukilan03h/Mukilan03h** 🚀
@@ -29,3 +28,22 @@
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/karmukilandk/) for professional inquiries and collaborations.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love tackling complex problems and turning them into elegant solutions. Let's code the future together!
+
+
+
+
+
+
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
